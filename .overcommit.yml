@@ -115,6 +115,7 @@ CommitMsg:
 # editor is displayed. These hooks are ideal for syntax checkers, linters, and
 # other checks that you want to run before you allow a commit object to be
 # created.
+
 PreCommit:
   AuthorName:
     enabled: false
